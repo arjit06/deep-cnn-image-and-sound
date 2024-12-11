@@ -1,7 +1,6 @@
 # deep-cnn-image-and-sound
 
 
-## Assignment 2
 This contains the implementation of myriad architectures of CNNs on two datasets: CIFAR-10 and SpeechCommand V0.02. The following are the descriptions on different architectures:-
 
 ### RESNET 
